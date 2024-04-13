@@ -1,0 +1,144 @@
+/* sign-up */
+.titlee {
+  /* text-align: center; */
+  font-size: 30px;
+  color: #ffffff;
+}
+
+/* .signnupform {
+      margin: 2rem;
+      font-size: 15px;
+      background-color: #454C68;
+      width: fit-content;
+      height: auto;
+      text-align: left;
+      padding: 2rem;
+      align-content: center;
+      border-radius: 12px;
+  } */
+
+/* .loginParentDiv{
+    display: flex;
+    width: 11/12;
+    max-width: 1160px;
+    margin: auto;
+    row-gap: 12px;
+    column-gap: 0;
+    justify-content: sp;
+  } */
+
+.alignment {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: left;
+}
+
+.formmm {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  margin: 2rem;
+  font-size: 15px;
+  background-color: #454c68;
+  width: 40%;
+  padding-right: 50px;
+  padding-left: 50px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  height: fit-content;
+  /* align-items: center; */
+
+  border-radius: 12px;
+}
+
+.formmm input {
+  border-radius: 7px;
+  background-color: #303444;
+  border: transparent;
+  height: 30px;
+  width: 100%;
+  padding-left: 0.3rem;
+  text-align: left;
+  margin-bottom: 10px;
+}
+
+
+.formmm select {
+  border-radius: 7px;
+  background-color: #303444;
+  border: transparent;
+  height: 30px;
+  width: 100%;
+  padding-left: 0.3rem;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.formm label {
+  font-size: large;
+  color: blue;
+  gap: 100px;
+}
+
+.formm br {
+  gap: 100px;
+}
+
+.googlebutton {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  border-radius: 8px;
+  width: 50%;
+  font: medium;
+  color: #00a3ff;
+  border: 1px solid gray;
+  row-gap: 2;
+  position: relative;
+  left: 25%;
+}
+
+.parentOr {
+  display: flex;
+  width: auto;
+  align-items: center;
+  gap: 2px;
+}
+
+.line {
+  border: 1px solid #00a3ff;
+  width: 100%;
+  color: #00a3ff;
+}
+
+.or {
+  color: #00a3ff;
+  font: medium;
+  /* margin-bottom: 20px; */
+}
+
+.formheight {
+  height: 1000%;
+}
+
+.eye {
+  position: absolute;
+  cursor: pointer;
+  top: 30px;
+  right: 10px;
+  z-index: 1;
+}
+
+.outsideEye {
+  position: relative;
+}
+
+.button-other {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  text-align: center;
+  color: #00a3ff
+}

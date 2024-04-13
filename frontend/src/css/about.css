@@ -1,0 +1,16 @@
+.main-form-body {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+  
+}
+.head{
+    font-size: 25px;
+    font-weight: bold;
+    color: hsl(202, 100%, 50%);
+    margin-left: 10vh;
+}
+
+.child{
+    margin-left: 10vh;
+    margin-right:15vh;
+}

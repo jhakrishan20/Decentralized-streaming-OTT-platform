@@ -1,0 +1,70 @@
+.main-form-body {
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+}
+
+.FAQ-HEADING {
+    font-size: 25px;
+    font-weight: bold;
+    color: #00a2ff;
+    margin-left: 10vh;
+}
+
+.sub-heading {
+    margin-left: 10vh;
+    font-size: 15px;
+    color: #999999;
+    margin-bottom: 2rem;
+}
+
+.f {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    /* text-align: center; */
+    margin-left: 6vh;
+    row-gap: 2rem;
+    column-gap: 6dvb;
+    justify-content: center;
+}
+
+
+/* gap: 2rem;
+text-align: left; */
+
+.quess {
+    margin-left: 2rem;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    width: 620px;
+    height: 20%;
+}
+
+.ans {
+    margin-left: 5rem;
+    width: 580px;
+    color: #999999;
+}
+
+.numm {
+    padding: 1% 2%;
+    background-color: #1f1f1f;
+    color: white;
+    width: 7%;
+    border-radius: 8px;
+}
+
+.ques {
+    padding: 1rem;
+    color: #ffffff;
+    width: 80%;
+    text-align: left;
+}
+
+.arrow {
+    text-align: right;
+    width: 3%;
+    height: fit-content;
+    cursor: pointer;
+}
